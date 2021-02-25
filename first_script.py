@@ -1,7 +1,7 @@
 print('Welcome to my project')
 
 # important operation
-ANSWER = 42
+ANSWER = 41
 
 
 """lot of lines of code"""
