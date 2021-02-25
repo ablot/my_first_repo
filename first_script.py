@@ -1,6 +1,8 @@
 print('Welcome to my project')
 
 # important operation
-answer = 42
+ANSWER = 42
 
 
+def give_answer():
+    return "The answer is %s"%ANSWER
